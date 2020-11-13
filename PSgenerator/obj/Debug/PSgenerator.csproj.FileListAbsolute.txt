@@ -1,0 +1,10 @@
+C:\Users\giorgos\source\repos\PSgenerator\PSgenerator\bin\Debug\PSgenerator.exe.config
+C:\Users\giorgos\source\repos\PSgenerator\PSgenerator\bin\Debug\PSgenerator.exe
+C:\Users\giorgos\source\repos\PSgenerator\PSgenerator\bin\Debug\PSgenerator.pdb
+C:\Users\giorgos\source\repos\PSgenerator\PSgenerator\obj\Debug\PSgenerator.csprojAssemblyReference.cache
+C:\Users\giorgos\source\repos\PSgenerator\PSgenerator\obj\Debug\PSgenerator.Form1.resources
+C:\Users\giorgos\source\repos\PSgenerator\PSgenerator\obj\Debug\PSgenerator.Properties.Resources.resources
+C:\Users\giorgos\source\repos\PSgenerator\PSgenerator\obj\Debug\PSgenerator.csproj.GenerateResource.cache
+C:\Users\giorgos\source\repos\PSgenerator\PSgenerator\obj\Debug\PSgenerator.csproj.CoreCompileInputs.cache
+C:\Users\giorgos\source\repos\PSgenerator\PSgenerator\obj\Debug\PSgenerator.exe
+C:\Users\giorgos\source\repos\PSgenerator\PSgenerator\obj\Debug\PSgenerator.pdb
