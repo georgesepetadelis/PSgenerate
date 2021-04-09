@@ -31,9 +31,7 @@ namespace PSgenerator
 
           
             int len = Convert.ToInt32(pass_len.Text);
-            if (pass_len.TextLength == 0){
-                MessageBox.Show("the values can't be empty!");
-            }
+            if (pass_len.TextLength == 0) MessageBox.Show("the values can't be empty!");
             else
             { 
                 if (len != null)
@@ -42,14 +40,8 @@ namespace PSgenerator
                     System.Windows.Forms.Clipboard.SetText(ran_pass.Text);
                     MessageBox.Show("password copied to clipboard!");
                 }
-                else {
-                    MessageBox.Show("the values can't be empty!");
-                }
+                else MessageBox.Show("the values can't be empty!");
             }
-            
-            
         }
-
-        
     }
 }
